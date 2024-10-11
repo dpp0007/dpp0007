@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepankar Patel
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on Frontend projects 
 - 📫 How to reach me Email:deepankarpatel28@gmail.com
 - 😄 Pronouns: HE
 - ⚡ Fun fact: Currently A first year student 
